@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @Dibeswar
-- STATUS STUDENT @IIT MADARS
-- 👀 I’m interested in PHYSICS ,CODING,
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on ... WEB DEVLOPMENT 
-- 📫 How to reach me ...@dibeswarbehera001@gmail.com
-- ig-Dibeswar.iitm
-- linkdin https://www.linkedin.com/in/dibeswar/
-- x-dibeswar_iitm
-- ⚡ Fun fact: ... you secretly like me i openly thank you
+- 🧑‍🎓STUDENT@IIT MADARS
+- 👀 I’m interested in PHYSICS ,CODING, BATMITION, ....MANY MORE
+- 🌱 I’m currently learning 🐍PYTHON,MATLAB,
+- 💞️ I’m looking to collaborate on ...UI/UX,DEVLOPMENT
+- 📫 How to reach me ...📩@dibeswar001@yahoo.com
+- 🔗https://www.linkedin.com/in/dibeswar/
+- 𝕏 https://x.com/Dibeswar_iitm
+- ⚡ Fun fact: ... YOU SECRETLY LIKE ME ,I OPENY BLESSED FOR 🙏
 
 <!---
 Dibeswar/Dibeswar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
