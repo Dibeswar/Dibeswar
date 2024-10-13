@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ... WEB DEVLOPMENT 
 - 📫 How to reach me ...@dibeswarbehera001@gmail.com
 - ig-Dibeswar.iitm
+- linkdin https://www.linkedin.com/in/dibeswar/
 - x-dibeswar_iitm
 - ⚡ Fun fact: ... you secretly like me i openly thank you
 
