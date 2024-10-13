@@ -3,7 +3,9 @@
 - 👀 I’m interested in PHYSICS ,CODING,
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on ... WEB DEVLOPMENT 
-- 📫 How to reach me ...@IG-Dibeswar.iitm
+- 📫 How to reach me ...@dibeswarbehera001@gmail.com
+- ig-Dibeswar.iitm
+- x-dibeswar_iitm
 - ⚡ Fun fact: ... you secretly like me i openly thank you
 
 <!---
